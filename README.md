@@ -7,7 +7,7 @@ Computer Science student
 I'm a Computer Science student at Visayas State University. Currently working on android projects, but I have experienced developing other commissioned desktop and web projects.
 
 * 🌍  I'm based in Leyte, Philippines
-* 🖥️  See my portfolio at [mywebsite](http://colaguevz.github.io/My-Portfolio/)
+* 🖥️  See my portfolio at [mywebsite](https://rcguevz.netlify.app/)
 * ✉️  You can contact me at [guevarramarcelorc1114@gmail.com](mailto:guevarramarcelorc1114@gmail.com)
 * 🧠  I'm learning data analytics and data visualization using Python.
 * 🤝  I'm open to collaborating on desktop, web, android, and research projects involving Python.
