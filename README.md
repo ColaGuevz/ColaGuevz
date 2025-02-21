@@ -6,13 +6,13 @@ Computer Science student
 
 I'm a Computer Science student at Visayas State University. Currently working on android projects, but I have experienced developing other commissioned desktop and web projects.
 
-* 🌍  I'm based in Leyte, Philippines
-* 🖥️  See my portfolio at [mywebsite](https://rcguevz.netlify.app/)
-* ✉️  You can contact me at [guevarramarcelorc1114@gmail.com](mailto:guevarramarcelorc1114@gmail.com)
-* 🔗  See my LinkedIn profile at [myLinkedIn](https://www.linkedin.com/in/marcelo-rc-guevarra-08865728b/)
-* 🧠  I'm learning data analytics and data visualization using Python.
-* 🤝  I'm open to collaborating on desktop, web, android, and research projects involving Python.
-* 🤖   I'm also interested in making expert systems, training machine learning models, and other artificial intelligence related stuff.
+* 🌍  I'm based in Leyte, Philippines
+* 🖥️  See my portfolio at [mywebsite](https://rcguevz.netlify.app/)
+* ✉️  You can contact me at [guevarramarcelorc1114@gmail.com](mailto:guevarramarcelorc1114@gmail.com)
+* 🔗  See my LinkedIn profile at [Linked In](https://www.linkedin.com/in/marcelo-rc-guevarra-08865728b/)
+* 🧠  I'm learning data analytics and data visualization using Python.
+* 🤝  I'm open to collaborating on desktop, web, android, and research projects involving Python.
+* 🤖  I'm also interested in making expert systems, training machine learning models, and other artificial intelligence related stuff.
 
 ### Skills
 
